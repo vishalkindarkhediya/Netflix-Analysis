@@ -41,7 +41,8 @@ data into meaningful insights about the content catalog.
 
 ## 📈 Dashboard
 
-![Alt text](Netflix-Analysis/1_to_4_Dashboard_final_image.png)
+<img width="1679" height="937" alt="1 _to_4_Dashboard_final_image" src="https://github.com/user-attachments/assets/0e9c6b37-420e-4084-99d7-1c46b0037331" />
+
 
 
 ## 👤 Author
